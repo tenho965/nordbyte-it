@@ -1,7 +1,7 @@
 'use strict';
 
 // Lägg in den verkliga företagsadressen före publicering, exempelvis kontakt@nordbyte.se.
-const CONTACT_EMAIL = '';
+const CONTACT_EMAIL = 'tenho965@gmail.com';
 
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('.main-nav');
