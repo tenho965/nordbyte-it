@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tenho965.github.io/nordbyte-it/sitemap.xml
